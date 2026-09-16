@@ -85,21 +85,6 @@ The app runs **fully offline** on TF-IDF + retrieval + templated replies — no 
 cp .env.example .env      # then paste your key into .env
 ```
 
-## ☁️ Deploy on Streamlit
-
-Deploy free on **Streamlit Community Cloud**:
-
-1. Push this repo to your GitHub (already done if you're reading this there).
-2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app** → pick this repo.
-3. Set **Main file path** to `app.py` and deploy.
-4. *(Optional, for LLM replies)* In **App → Settings → Secrets**, add:
-   ```toml
-   OPENAI_API_KEY = "sk-..."
-   ```
-   The app reads this automatically; without it, it serves grounded/templated replies.
-
-Then paste the resulting URL into the **Live demo** line near the top of this README.
-
 ## 🧪 Reproduce the evaluation
 
 ```bash
