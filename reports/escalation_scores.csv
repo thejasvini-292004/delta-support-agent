@@ -1,0 +1,4 @@
+model,accuracy,auto_precision,auto_recall,escalate_precision,escalate_recall
+trivial: escalate-all,0.691,0.000,0.000,0.691,1.000
+trivial: auto-all,0.309,0.309,1.000,0.000,0.000
+rules (ours),0.786,0.657,0.647,0.843,0.849

@@ -1,0 +1,3 @@
+model,accuracy,macro_f1
+trivial: majority class,0.164,0.026
+simple: TF-IDF+LogReg (5-fold OOF),0.491,0.426

@@ -1,0 +1,122 @@
+[
+  {
+    "text": "How far in advance does boarding end / aircraft door shut before an international flight departs? Asking for travel next week. Thx!",
+    "intent": "airport_gate",
+    "confidence": 0.951,
+    "decision": "auto",
+    "reason": "known intent 'airport_gate', confident, well-grounded",
+    "reply_mode": "retrieved_grounded",
+    "reply": "Hi Natalie, you need to be in the boarding area 20 minutes prior to your departure; gate doors close 10 minutes prior. Thank you.",
+    "top_grounding_score": 1.0,
+    "sources": [
+      "Hi Natalie, you need to be in the boarding area 20 minutes prior to your departure; gate doors close 10 minutes prior. Thank you.",
+      "Hi, Nish! Bags can be checked no more than 6 hours prior to your flight departure.",
+      "...32000 feet! *TCC"
+    ]
+  },
+  {
+    "text": "my confirmation # is HIWD97. On a positive note, if you get this it means the WiFi started working.",
+    "intent": "service_feedback",
+    "confidence": 0.941,
+    "decision": "auto",
+    "reason": "known intent 'service_feedback', confident, well-grounded",
+    "reply_mode": "retrieved_grounded",
+    "reply": "For security purposes, pls delete your last tweet with your confirmation code.",
+    "top_grounding_score": 1.0,
+    "sources": [
+      "For security purposes, pls delete your last tweet with your confirmation code.",
+      "Thank you, Lisa. We've identified the flight and I've let Aldo's leadership know.",
+      "Hi, Regina. Please let us know how we can assist you via this channel."
+    ]
+  },
+  {
+    "text": "main cabin is fine.. doesn't have to be a Delta Comfort seat",
+    "intent": "seating",
+    "confidence": 0.999,
+    "decision": "escalate",
+    "reason": "intent 'seating' is account/transaction-specific; weak grounding in historical replies (top=0.31)",
+    "reply_mode": "escalation",
+    "reply": "Let me bring in a specialist who can access your reservation and help with your seat.",
+    "top_grounding_score": 0.31,
+    "sources": [
+      "Hi Anny. Is there anything I can help you with?",
+      "I'll be more than happy to look into this for you. Give me just a moment to review your account.",
+      "We regret your flight is not equipped with power outlets."
+    ]
+  },
+  {
+    "text": "REFUND",
+    "intent": "refund_compensation",
+    "confidence": 1.0,
+    "decision": "escalate",
+    "reason": "risk/complaint/financial language; intent 'refund_compensation' is account/transaction-specific",
+    "reply_mode": "escalation",
+    "reply": "I understand, and I want to get this looked into for you. I'm connecting you with a specialist who can review the charge and any refund on your account.",
+    "top_grounding_score": 1.0,
+    "sources": [
+      "My sincere apologies for all delays, as we have been experiencing higher than normal volume this weekend. We do offer the benefit of call-back technology, as you will not have to wait on hold.",
+      "Good evening, John. I can certainly take a look. Please use the link to provide your confirmation #.",
+      "Good evening, Natalia. Please share more details via the link."
+    ]
+  },
+  {
+    "text": "Hey why does this say we are going to Shanghai?",
+    "intent": "booking_fare",
+    "confidence": 0.919,
+    "decision": "escalate",
+    "reason": "intent 'booking_fare' is account/transaction-specific",
+    "reply_mode": "escalation",
+    "reply": "I can help get that sorted \u2014 I'm connecting you with a Delta specialist who can securely make that change to your booking.",
+    "top_grounding_score": 1.0,
+    "sources": [
+      "That's certainly a mistake. I'll notify Cabin Maintenance to take a look at it. Please let a flight attendant know about this as well.",
+      "Really sorry about that. Can you please clarify the major problem you are having today?",
+      "Enjoy your flight and thank you for flying with us! We appreciate your loyalty as a Diamond Medallion member."
+    ]
+  },
+  {
+    "text": "hi did they happen to mention when they might know if my memory card was found",
+    "intent": "baggage",
+    "confidence": 0.934,
+    "decision": "escalate",
+    "reason": "intent 'baggage' is account/transaction-specific",
+    "reply_mode": "escalation",
+    "reply": "I'm sorry for the trouble with your baggage. I'm looping in a specialist who can help locate your bag and assist you directly.",
+    "top_grounding_score": 1.0,
+    "sources": [
+      "Hi, Scott. I'm sorry, you will be contacted directly if/when your memory card is located.",
+      "My apologies this may have been the only seat available at the time you purchased your ticket.",
+      "Hi, there. I will check for you. Have you lost and item recently?"
+    ]
+  },
+  {
+    "text": "why is the delta shuttle between dca and lga always delayed? Guess I need to build in delay hrs before planning my day...#frustrated",
+    "intent": "flight_disruption",
+    "confidence": 0.967,
+    "decision": "escalate",
+    "reason": "negative sentiment (dissatisfied customer); risk/complaint/financial language; intent 'flight_disruption' is account/transaction-specific",
+    "reply_mode": "escalation",
+    "reply": "I'm sorry for the frustration this has caused. I'm sorry your travel was disrupted \u2014 I know how stressful that is. I'm connecting you with a Delta specialist who can pull up your booking and help get you moving.",
+    "top_grounding_score": 1.0,
+    "sources": [
+      "Hello, Very sorry for the delays. We must do better. If you need any help, let us know.",
+      "I am showing that we are waiting for the aircraft to arrive from its previous destination.",
+      "Thanks for your patience. It appears that you are waiting on a crew member. We are diligently working to get you on your way."
+    ]
+  },
+  {
+    "text": "It\u2019s not a misunderstanding but a serious case of misleading customers who think they are booking with one airline and find out they actually booked with another. That\u2019s also something should know about .",
+    "intent": "booking_fare",
+    "confidence": 0.942,
+    "decision": "escalate",
+    "reason": "intent 'booking_fare' is account/transaction-specific; weak grounding in historical replies (top=0.23)",
+    "reply_mode": "escalation",
+    "reply": "I can help get that sorted \u2014 I'm connecting you with a Delta specialist who can securely make that change to your booking.",
+    "top_grounding_score": 0.234,
+    "sources": [
+      "My apology for any inconvenience.",
+      "I'm sorry this happened Tom. If you reach out to our Baggage Service I'm sure they will be glad to help. (800)-325-8224.",
+      "Alice, thanks again for sharing and choosing Delta! \ud83d\ude03"
+    ]
+  }
+]

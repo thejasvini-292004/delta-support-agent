@@ -1,0 +1,96 @@
+
+=== cluster 3  |  22,389 msgs (50.5%) ===
+top terms: fly, seat, plane, flying, dm, great, love, sent, don, good, need, today
+   • They always great when you fly with !
+   • would love to see upgrade status on the Today screen in the app, rather than having to make 2 taps to see upgrade status.
+   • No... A GREAT morning to fly Delta!
+   • Thanks for another great seat!
+   • just so you know- I️ think you’re great. P. S. I️ don’t want anything for free. I️ just genuinely appreciate you.
+
+=== cluster 6  |  6,279 msgs (14.2%) ===
+top terms: flight, attendant, flight attendant, crew, great, seat, change, atl, today, hour, attendants, flight attendants
+   • Delta - the flight was VS1076
+   • Flight DL2446
+   • I’m on flight DL3566
+   • Hey ! How do I get an invite on the #DL747Farewell flight? 😂✈️
+   • The flight is cursed
+
+=== cluster 1  |  2,790 msgs (6.3%) ===
+top terms: flights, check, bag, flight, check bag, checked, app, bags, free, baggage, checked bag, need
+   • Flights for Chicagi
+   • Check in scenes for flights at Kona this evening.
+   • Kie not Kai. Spell check
+   • I have. Please check.
+   • Delta elimina i check-in 👏
+
+=== cluster 5  |  2,134 msgs (4.8%) ===
+top terms: time, flight, wait, wait time, fly, hold, hold time, hours, flying, hour, time fly, time flying
+   • Thank you for your time.
+   • Still on time?
+   • perhaps it's time to reevaluate yours
+   • Time for another, Gary?
+   • Every time
+
+=== cluster 8  |  1,906 msgs (4.3%) ===
+top terms: help, need, need help, flight, trying, change, phone, tomorrow, number, help flight, seat, dm
+   • Thanks for your help!
+   • Please help,
+   • Can you help me too? Please, please????
+   • this might help
+   • Thank you for your help
+
+=== cluster 4  |  1,726 msgs (3.9%) ===
+top terms: way, seats, flight, upgrade, comfort, available, seat, seats available, class, open, comfort seats, plane
+   • Way to go !!
+   • Way to go !
+   • Way to go!
+   • proves once again why they are my #1. Way to be there for the #LasVegasShooting victims
+   • Your call centers to spin it that way too.
+
+=== cluster 7  |  1,620 msgs (3.7%) ===
+top terms: gate, gate agent, agent, flight, gate agents, agents, plane, atl, minutes, sitting, boarding, seat
+   • Hey can we have our gate now?
+   • Still at the gate...
+   • could we please get to the gate?
+   • The gate agent for DL1542 is ⭐️⭐️⭐️⭐️⭐️
+   • DL2361 gate A9 Atl
+
+=== cluster 0  |  1,472 msgs (3.3%) ===
+top terms: customer service, customer, service, great, great customer, flight, today, worst, experience, worst customer, wait, best
+   • Now this is what I call customer service! Thank you so much Delta!
+   • ^ And this is why you always go with . Customer service.
+   • how can I get customer service?
+   • customer service is 👌🏼
+   • Or give me the # for customer service.
+
+=== cluster 9  |  1,354 msgs (3.1%) ===
+top terms: delayed, flight, flight delayed, hours, delayed hours, delayed flight, connection, flights, plane, hour, miss, time
+   • Why is flight DL4873 being delayed?
+   • Hey why is my flight to Kennedy delayed?
+   • why is Flight 2655 delayed
+   • Hi - why is my flight DL6007 delayed?
+   • why is flight DL0075 delayed?
+
+=== cluster 10  |  1,133 msgs (2.6%) ===
+top terms: work, does, doesn, doesn work, flight, mean, does mean, wifi, app, long does, didn work, don
+   • That will work!
+   • Hi-Ho it’s off to work I go! #msconthego livingproofkorea @ 인천공항 Incheon…
+   • Seems to work now. Thanks.
+   • im at work
+   • To work 🙁
+
+=== cluster 11  |  783 msgs (1.8%) ===
+top terms: did, flight, know, said, job, told, did know, yes did, help, seat, bag, time
+   • , you did it again :) Thank you
+   • Just did :)
+   • I did!
+   • I just did
+   • Just did.
+
+=== cluster 2  |  708 msgs (1.6%) ===
+top terms: sky, club, sky club, sky miles, miles, sky priority, priority, lounge, sky lounge, line, card, miles account
+   • there is no delta sky club in jberg
+   • Thumbs up . The sky club at DTW is magnificent.
+   • I'm at Sky Club in Flushing, NY
+   • I'm at Sky Club in Kenner, LA
+   • Hello Sky Club! Have you missed me? (at Sky Club in Tampa, FL)
