@@ -1,6 +1,6 @@
 # An Evaluation-First AI Support Agent for Delta
 
-**Delta · Twitter Customer Support · SDE Intern take-home**
+**Delta · Twitter Customer Support .**
 
 Classify the customer's intent, ground a reply in Delta's own historical resolutions, and decide — with a stated reason — whether to auto-handle or escalate. Built on the Kaggle *Customer Support on Twitter* corpus. Guiding principle: **the proof is worth more than the system.**
 
