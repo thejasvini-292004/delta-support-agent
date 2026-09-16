@@ -11,7 +11,7 @@ Built on the Kaggle *Customer Support on Twitter* dataset. Guiding principle: **
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-> **Live demo:** _add your Streamlit URL here after deploying (see [Deploy](#-deploy-on-streamlit) below)._
+> **Live demo:** https://delta-support-agent-dwzgh4rdbrrmyv7kjymchi.streamlit.app
 > **Full write-up:** see [`REPORT.md`](REPORT.md) and [`Delta_Support_Agent_Report.docx`](Delta_Support_Agent_Report.docx) for problem framing, baselines, failure analysis, and the research grounding.
 
 ---
