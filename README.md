@@ -11,7 +11,7 @@ Built on the Kaggle *Customer Support on Twitter* dataset. Guiding principle: **
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-> **Live demo:** _add your Streamlit URL here after deploying (see [Deploy](#-deploy-on-streamlit) below)._
+> **Live demo:** https://delta-support-agent-dwzgh4rdbrrmyv7kjymchi.streamlit.app
 > **Full write-up:** see [`REPORT.md`](REPORT.md) and [`Delta_Support_Agent_Report.docx`](Delta_Support_Agent_Report.docx) for problem framing, baselines, failure analysis, and the research grounding.
 
 ---
@@ -84,21 +84,6 @@ The app runs **fully offline** on TF-IDF + retrieval + templated replies — no 
 ```bash
 cp .env.example .env      # then paste your key into .env
 ```
-
-## ☁️ Deploy on Streamlit
-
-Deploy free on **Streamlit Community Cloud**:
-
-1. Push this repo to your GitHub (already done if you're reading this there).
-2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app** → pick this repo.
-3. Set **Main file path** to `app.py` and deploy.
-4. *(Optional, for LLM replies)* In **App → Settings → Secrets**, add:
-   ```toml
-   OPENAI_API_KEY = "sk-..."
-   ```
-   The app reads this automatically; without it, it serves grounded/templated replies.
-
-Then paste the resulting URL into the **Live demo** line near the top of this README.
 
 ## 🧪 Reproduce the evaluation
 
